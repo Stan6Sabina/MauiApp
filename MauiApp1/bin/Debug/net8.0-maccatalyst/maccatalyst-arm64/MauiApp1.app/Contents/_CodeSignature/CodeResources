@@ -32,6 +32,10 @@
 		<data>
 		xApZJXqfXkr1Mq6aQgZg8CzB6/E=
 		</data>
+		<key>Resources/bee_relaxed.png</key>
+		<data>
+		ZUknUTWotUWPfvAjJJMN3vvF0Ao=
+		</data>
 		<key>Resources/dotnet_bot.png</key>
 		<data>
 		zpXnLSzSJw/k9PLyd7V9FWWnJPY=
@@ -44,6 +48,10 @@
 		<data>
 		ZavBRK6gzdv0u+OYAINxznb1lzE=
 		</data>
+		<key>Resources/shop_list.jpg</key>
+		<data>
+		c3tlUNqSGgmDC8/wor6p3RroQcY=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -51,14 +59,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DPYSifnx+E7g6t/k+M71X3bsjRcJqh+melFTDSg0LTg=
+			dOmBM6/oH9N8gRD3pTVQNNnZMcGtbvVgQDpreasEcDc=
 			</data>
 		</dict>
 		<key>MonoBundle/MauiApp1.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1auF91kRUo8+UMigrPlkpzIKGITPadxQBe9k9/l4ss0=
+			DnKFR72EWzK+neSsiiPkJGKthlUjRmX96tBRLCRyi40=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -1671,6 +1679,13 @@
 			sWx2RGKXFayNZoBkuBKZzXCOJxt1scnmh56P7sBWR7s=
 			</data>
 		</dict>
+		<key>Resources/bee_relaxed.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UUS2aotj+UbNS48WlU9PTgTRQsyfYyx6EJGAmohv25Y=
+			</data>
+		</dict>
 		<key>Resources/dotnet_bot.png</key>
 		<dict>
 			<key>hash2</key>
@@ -1690,6 +1705,13 @@
 			<key>hash2</key>
 			<data>
 			ftZ//NybejiBqaUusNcnEH1SLkssxSWkkQlItM9ZxkA=
+			</data>
+		</dict>
+		<key>Resources/shop_list.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8vHo9ZXKBAkZo8g0ifAHUsRDgkqFCBK/gcfgxtZhkKw=
 			</data>
 		</dict>
 	</dict>

@@ -6,9 +6,9 @@
 	<dict>
 		<key>output-files</key>
 		<array>
-			<string>/Users/sabinastan/Documents/Work/Facultate/Medii/MauiApp1/MauiApp1/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/actool/bundle/Assets.car</string>
-			<string>/Users/sabinastan/Documents/Work/Facultate/Medii/MauiApp1/MauiApp1/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/actool/bundle/appicon.icns</string>
-			<string>/Users/sabinastan/Documents/Work/Facultate/Medii/MauiApp1/MauiApp1/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/actool/partial-info.plist</string>
+			<string>/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/actool/bundle/Assets.car</string>
+			<string>/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/actool/bundle/appicon.icns</string>
+			<string>/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/actool/partial-info.plist</string>
 		</array>
 	</dict>
 </dict>

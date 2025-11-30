@@ -8,9 +8,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>MauiApp1.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/sabinastan/Documents/Work/Facultate/Medii/MauiApp1/MauiApp1/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/mtouch-symbols.list</SymbolFile>
       <DSymName>MauiApp1.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/sabinastan/Documents/Work/Facultate/Medii/MauiApp1/MauiApp1</SourceProjectPath>
+      <SourceProjectPath>/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1</SourceProjectPath>
       <IsXPCService></IsXPCService>
     </_PostProcessingItem>
   </ItemGroup>

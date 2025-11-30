@@ -5,7 +5,7 @@ AreAnyAssembliesTrimmed=false
 				AOTOutputDirectory=obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/nativelibraries/aot-output/
 				DedupAssembly=obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/aot-instances.dll
 				AppBundleManifestPath=bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/MauiApp1.app/Contents/Info.plist
-				CacheDirectory=/Users/sabinastan/Documents/Work/Facultate/Medii/MauiApp1/MauiApp1/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/linker-cache
+				CacheDirectory=/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/linker-cache
 				
 				Debug=true
 				DeploymentTarget=13.1
@@ -185,7 +185,7 @@ FrameworkAssembly=System.Private.CoreLib
 				IntermediateLinkDir=obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/linked/
 				InvariantGlobalization=false
 				HybridGlobalization=false
-				ItemsDirectory=/Users/sabinastan/Documents/Work/Facultate/Medii/MauiApp1/MauiApp1/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/linker-items
+				ItemsDirectory=/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/linker-items
 				IsAppExtension=false
 				IsSimulatorBuild=False
 				LibMonoLinkMode=static
