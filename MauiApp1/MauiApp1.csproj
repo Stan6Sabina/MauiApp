@@ -62,6 +62,7 @@
         <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.1"/>
         <PackageReference Include="Microsoft.Maui.Controls.Core" Version="8.0.100" />
         <PackageReference Include="sqlite-net-pcl" Version="1.10.196-beta" />
+        <PackageReference Include="SQLiteNetExtensions" Version="2.1.0" />
     </ItemGroup>
 
 </Project>

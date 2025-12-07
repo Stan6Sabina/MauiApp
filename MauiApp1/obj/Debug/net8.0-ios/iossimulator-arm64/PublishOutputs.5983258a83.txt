@@ -49,7 +49,9 @@
 /Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Microsoft.Maui.dll
 /Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Microsoft.Maui.Essentials.dll
 /Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Microsoft.Maui.Graphics.dll
+/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiApp1.app/Newtonsoft.Json.dll
 /Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiApp1.app/SQLite-net.dll
+/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiApp1.app/SQLiteNetExtensions.dll
 /Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiApp1.app/SQLitePCLRaw.batteries_v2.dll
 /Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiApp1.app/SQLitePCLRaw.core.dll
 /Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiApp1.app/SQLitePCLRaw.provider.sqlite3.dll

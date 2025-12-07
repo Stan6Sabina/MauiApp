@@ -72,6 +72,10 @@
               "version": "[8.0.21, )",
               "autoReferenced": true
             },
+            "SQLiteNetExtensions": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
             "sqlite-net-pcl": {
               "target": "Package",
               "version": "[1.10.196-beta, )"
@@ -123,6 +127,10 @@
               "version": "[8.0.21, )",
               "autoReferenced": true
             },
+            "SQLiteNetExtensions": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
             "sqlite-net-pcl": {
               "target": "Package",
               "version": "[1.10.196-beta, )"
@@ -173,6 +181,10 @@
               "target": "Package",
               "version": "[8.0.21, )",
               "autoReferenced": true
+            },
+            "SQLiteNetExtensions": {
+              "target": "Package",
+              "version": "[2.1.0, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",

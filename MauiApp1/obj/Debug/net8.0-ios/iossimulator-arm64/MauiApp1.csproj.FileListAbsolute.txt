@@ -813,3 +813,11 @@
 /Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/SQLitePCLRaw.batteries_v2.dll
 /Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/SQLitePCLRaw.core.dll
 /Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/SQLitePCLRaw.provider.sqlite3.dll
+/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/Newtonsoft.Json.dll
+/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/SQLiteNetExtensions.dll
+/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Newtonsoft.Json.stamp
+/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/SQLite-net.stamp
+/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/SQLiteNetExtensions.stamp
+/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/SQLitePCLRaw.batteries_v2.stamp
+/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/SQLitePCLRaw.core.stamp
+/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/SQLitePCLRaw.provider.sqlite3.stamp

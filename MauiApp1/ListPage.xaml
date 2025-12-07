@@ -2,11 +2,16 @@
 
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:mauiApp1="clr-namespace:MauiApp1"
              x:Class="MauiApp1.ListPage">
     <StackLayout Margin="20">
         <Editor Placeholder="Enter the description of the shopping list"
                 Text="{Binding Description}"
-                HeightRequest="100" />
+                HeightRequest="50" >
+            <Editor.Behaviors>
+                <mauiApp1:ValidationBehaviour />
+            </Editor.Behaviors>
+        </Editor>
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />
@@ -18,5 +23,18 @@
                     Text="Delete"
                     Clicked="OnDeleteButtonClicked"/>
         </Grid>
+        <ListView x:Name="listView"
+                  Margin="20"
+                  SelectionMode="Single">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Description}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Text="Add/Choose Item to buy" MaximumWidthRequest="300"
+                Clicked="OnChooseButtonClicked"/>
+        <Button Text="Delete Item"
+                Clicked="OnDeleteItemClicked" />
     </StackLayout>
 </ContentPage>
