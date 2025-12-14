@@ -12,6 +12,7 @@
                 <mauiApp1:ValidationBehaviour />
             </Editor.Behaviors>
         </Editor>
+        <Picker x:Name="ShopPicker" Title="Enter Shop Name"/>
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />

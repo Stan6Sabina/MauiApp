@@ -69,3 +69,15 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/ShopEntryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.ShopEntryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ShopEntryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ShopEntryPage.xaml
+
+[/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/ShopPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.ShopPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ShopPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ShopPage.xaml

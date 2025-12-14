@@ -796,3 +796,4 @@
 /Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.XPath.stamp
 /Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.XPath.XDocument.stamp
 /Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/WindowsBase.stamp
+/Users/sabinastan/Documents/Work/Facultate/MauiApp1/MauiApp1/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Plugin.LocalNotification.stamp

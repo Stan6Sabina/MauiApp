@@ -13,6 +13,36 @@ public class ShoppingListDatabase
         _database.CreateTableAsync<ShopList>().Wait();
         _database.CreateTableAsync<Product>().Wait();
         _database.CreateTableAsync<ListProduct>().Wait();
+        _database.CreateTableAsync<Shop>().Wait();
+    }
+    public Task<List<Shop>> GetShopsAsync()
+    {
+        return _database.Table<Shop>().ToListAsync();
+    }
+    public Task<int> SaveShopAsync(Shop shop)
+    {
+        if (shop.ID != 0)
+        {
+            return _database.UpdateAsync(shop);
+        }
+        else
+        {
+            return _database.InsertAsync(shop);
+        }
+    }
+    public async Task<int> DeleteShopAsync(Shop shop)
+    {
+        // Delete dependent records: ListProduct entries for the shop's lists, then the lists, then the shop
+        // 1) Delete ListProduct rows that belong to any ShopList of this Shop
+        await _database.ExecuteAsync(
+            "DELETE FROM ListProduct WHERE ShopListID IN (SELECT ID FROM ShopList WHERE ShopID = ?)",
+            shop.ID);
+
+        // 2) Delete ShopList rows for this Shop
+        await _database.ExecuteAsync("DELETE FROM ShopList WHERE ShopID = ?", shop.ID);
+
+        // 3) Finally, delete the Shop row
+        return await _database.DeleteAsync(shop);
     }
     public Task<int> SaveProductAsync(Product product)
     {
